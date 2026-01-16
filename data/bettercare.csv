@@ -1,0 +1,3 @@
+subscriber_id,first_name,last_name,date_of_birth,email,phone 
+BC-001,Alice,Johnson,1965-08-10,alice.j@test.com,555-222-3333
+BC-002,Charlie,Brown,1972-03-25,charlie.b@test.com,5554445555

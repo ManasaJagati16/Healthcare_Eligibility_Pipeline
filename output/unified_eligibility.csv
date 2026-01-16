@@ -1,0 +1,5 @@
+external_id,first_name,last_name,dob,email,phone,partner_code
+1234567890A,John,Doe,1955-03-15,john.doe@email.com,,ACME
+9876543210B,Jane,Smith,1948-07-22,jane.smith@email.com,,ACME
+BC-001,Alice,Johnson,1965-08-10,alice.j@test.com,,BETTERCARE
+BC-002,Charlie,Brown,1972-03-25,charlie.b@test.com,,BETTERCARE
